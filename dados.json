@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "tipo": "Laptop",
+        "hostname": "r",
+        "responsavel": "a",
+        "setor": "",
+        "vulnerabilidades": [
+            {
+                "id": 1,
+                "descricao": "é merda",
+                "categoria": "muito tenso",
+                "severidade": "alta",
+                "status": "aberta"
+            }
+        ]
+    }
+]
